@@ -1,3 +1,5 @@
+![rossed in programmin](https://github.com/zerocode614/zerocode614/assets/138153801/36f0aa61-c096-4fd0-b923-a160dadcf5b5)
+
 ### Hi there 👋
 <h3 align="center"> Welcome to my digital canvas 🎨 , where creativity meets code. </h3>
 
