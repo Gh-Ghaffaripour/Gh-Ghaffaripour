@@ -1,10 +1,10 @@
 ### Hi there 👋
-<h3 align="center"> Welcome to my digital canvas, where creativity meets code. </h3>
+<h3 align="center"> Welcome to my digital canvas 🎨 , where creativity meets code. </h3>
 
 - **Roles:** Neuro Researcher | Physician | Programmer | Artist | Athlete
-- **Philosophy:** Curiosity fuels my journey, creativity is my map, and learning is the path I choose every day.
+- **Philosophy:** Curiosity fuels my journey, creativity is my map, and learning is the path I choose every day. 💡
 
-Currently, I'm diving deep into the mysteries of the human brain, leveraging Python and Machine Learning algorithms to decipher its complex data patterns. My goal? To unlock insights that bridge the gap between neurological research and practical applications.
+Currently, I'm diving deep into the mysteries of the human brain 🧠, leveraging Python and Machine Learning algorithms to decipher its complex data patterns. My goal? To unlock insights that bridge the gap between neurological research and practical applications.
 
 - 🌱 **What I'm Learning:** Advanced data analysis techniques in Python and exploring the potential of Machine Learning in neuroscientific research.
 
@@ -26,9 +26,9 @@ Join me on this adventure as we navigate the fascinating interplay of neurons, a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggggggg&show_icons=true&locale=en&layout=compact" alt="ggggggg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerocode614&show_icons=true&locale=en&layout=compact" alt="zerocode614" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggggggg&show_icons=true&locale=en" alt="ggggggg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerocode614&show_icons=true&locale=en" alt="zerocode614" /></p>
 
 
 
