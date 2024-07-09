@@ -1,4 +1,4 @@
-![rossed in programmin](https://github.com/zerocode614/zerocode614/assets/138153801/36f0aa61-c096-4fd0-b923-a160dadcf5b5)
+![rossed in programmin](https://github.com/Gh-Ghaffaripour/Gh-Ghaffaripour/assets/138153801/36f0aa61-c096-4fd0-b923-a160dadcf5b5)
 
 ### Hi there 👋
 <h3 align="center"> Welcome to my digital canvas 🎨 , where creativity meets code. </h3>
@@ -13,13 +13,13 @@ Currently, I'm diving deep into the mysteries of the human brain 🧠, leveragin
 Join me on this adventure as we navigate the fascinating interplay of neurons, algorithms, and the artistry of life itself.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerocode614&label=Profile%20views&color=0e75b6&style=flat" alt="zerocode614" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gh-Ghaffaripour&label=Profile%20views&color=0e75b6&style=flat" alt="Gh-Ghaffaripour" /> </p>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gh-ghaffaripour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerocode614" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gh-ghaffaripour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gh-Ghaffaripour" height="30" width="40" /></a>
 </p>
 
 
@@ -28,9 +28,9 @@ Join me on this adventure as we navigate the fascinating interplay of neurons, a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerocode614&show_icons=true&locale=en&layout=compact" alt="zerocode614" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gh-Ghaffaripour&show_icons=true&locale=en&layout=compact" alt="Gh-Ghaffaripour" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerocode614&show_icons=true&locale=en" alt="zerocode614" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gh-Ghaffaripour&show_icons=true&locale=en" alt="Gh-Ghaffaripour" /></p>
 
 
 
