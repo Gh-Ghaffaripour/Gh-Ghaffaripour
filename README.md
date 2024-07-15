@@ -4,6 +4,9 @@
 <h3 align="center"> Welcome to my digital canvas 🎨 </h3>
 
 - **key projects:**
+  
+![Project](https://img.shields.io/badge/Project-Dynamic--Fluctuations--in--DMN--network--after--TBS-brightgreen?style=for-the-badge)
+
 ### [Dynamic-Fluctuations-in-DMN-network-after-TBS](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
 A project on dynamic fluctuations in the DMN network after TBS.
 
