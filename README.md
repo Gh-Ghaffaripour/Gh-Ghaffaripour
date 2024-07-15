@@ -1,7 +1,8 @@
 ![rossed in programmin](https://github.com/zerocode614/zerocode614/assets/138153801/36f0aa61-c096-4fd0-b923-a160dadcf5b5)
 
-### Hi there 👋
 <h3 align="center"> Welcome to my digital canvas 🎨 </h3>
+<h5 align="center"> Navigating the fascinating interplay of neurons, algorithms, and the artistry of life itself. </h5>
+
 
 <h3 align="center"> key projects:  </h3>
 
@@ -15,19 +16,19 @@
 - A project on dynamic fluctuations in the DMN network after TBS.
 -->
 -----------------------------------------------------------------------------------------------------------------------------
+<br>
 
-- **Roles:** Neuro Researcher | Physician | Programmer | Artist | Athlete
-- **Philosophy:** Curiosity fuels my journey, creativity is my map, and learning is the path I choose every day. 💡
+- **Roles:** Neuro Researcher 🤓| Physician 🩺| Programmer 💻| Artist 🧑‍🎨| Athlete 🥋
+- **Philosophy 💡:** As technology advances, physicians' roles are evolving beyond direct patient care due to automation. We are increasingly focusing on innovating sophisticated treatments as researchers. This vision has driven me to self-learn various topics and skills beyond the traditional scope of medicine.. 
+- **Intrests**: I'm diving deep into the mysteries of the human brain 🧠  <br> -Brain Computer interface | Brain Machine interface <br>  -Sensor-brain interface systems <br> -Closed loop deep brain stimulation
 
-Currently, I'm diving deep into the mysteries of the human brain 🧠, leveraging Python and Machine Learning algorithms to decipher its complex data patterns. My goal? To unlock insights that bridge the gap between neurological research and practical applications.
+- **What I'm Learning 🌱:** Advanced data analysis techniques exploring the potential of machine Learning algorithms in decoding brain signals.
 
-- 🌱 **What I'm Learning:** Advanced data analysis techniques in Python and exploring the potential of Machine Learning in neuroscientific research.
 
-Join me on this adventure as we navigate the fascinating interplay of neurons, algorithms, and the artistry of life itself.
 
 
         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gh-Ghaffaripour&label=Profile%20views&color=0e75b6&style=flat" alt="Gh-Ghaffaripour" /> </p>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=Gh-Ghaffaripour&label=Profile%20views&color=0e75b6&style=flat" alt="Gh-Ghaffaripour" /> </p>
 
 
 
