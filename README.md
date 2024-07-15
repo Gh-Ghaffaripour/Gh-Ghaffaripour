@@ -1,7 +1,11 @@
 ![rossed in programmin](https://github.com/zerocode614/zerocode614/assets/138153801/36f0aa61-c096-4fd0-b923-a160dadcf5b5)
 
 ### Hi there 👋
-<h3 align="center"> Welcome to my digital canvas 🎨 , where creativity meets code. </h3>
+<h3 align="center"> Welcome to my digital canvas 🎨 </h3>
+
+- **key projects:**
+### [Dynamic-Fluctuations-in-DMN-network-after-TBS](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
+A project on dynamic fluctuations in the DMN network after TBS.
 
 - **Roles:** Neuro Researcher | Physician | Programmer | Artist | Athlete
 - **Philosophy:** Curiosity fuels my journey, creativity is my map, and learning is the path I choose every day. 💡
