@@ -3,12 +3,12 @@
 ### Hi there 👋
 <h3 align="center"> Welcome to my digital canvas 🎨 </h3>
 
-- **key projects:**
+<h3 align="center"> key projects:  </h3>
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 ### [Dynamic-Fluctuations-in-DMN-network-after-TBS](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
 
-Dynamic Causal Modeling of EEG Data to Assess Fluctuating Connectivity After Theta Burst Stimulation
+*Dynamic Causal Modeling of EEG Data to Assess Fluctuating Connectivity After Theta Burst Stimulation (MATLAB)*
 <!-- 
 [![Project](https://img.shields.io/badge/Project-Dynamic--Fluctuations--in--DMN--network--after--TBS-6eb3a3?style=for-the-badge&labelColor=grey)](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
 ### [Dynamic-Fluctuations-in-DMN-network-after-TBS](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
@@ -26,14 +26,19 @@ Currently, I'm diving deep into the mysteries of the human brain 🧠, leveragin
 Join me on this adventure as we navigate the fascinating interplay of neurons, algorithms, and the artistry of life itself.
 
 
+        
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gh-Ghaffaripour&label=Profile%20views&color=0e75b6&style=flat" alt="Gh-Ghaffaripour" /> </p>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gh-ghaffaripour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gh-Ghaffaripour" height="30" width="40" /></a>
+<p>
+  Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/gh-ghaffaripour" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gh-Ghaffaripour" height="30" width="40" />
+  </a>
+  
 </p>
+
 
 
 
@@ -44,6 +49,8 @@ Join me on this adventure as we navigate the fascinating interplay of neurons, a
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gh-Ghaffaripour&show_icons=true&locale=en&layout=compact" alt="Gh-Ghaffaripour" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gh-Ghaffaripour&show_icons=true&locale=en" alt="Gh-Ghaffaripour" /></p>
+
+
 
 
 
