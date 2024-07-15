@@ -4,11 +4,17 @@
 <h3 align="center"> Welcome to my digital canvas 🎨 </h3>
 
 - **key projects:**
-  
-![Project](https://img.shields.io/badge/Project-Dynamic--Fluctuations--in--DMN--network--after--TBS-brightgreen?style=for-the-badge)
+
 
 ### [Dynamic-Fluctuations-in-DMN-network-after-TBS](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
-A project on dynamic fluctuations in the DMN network after TBS.
+
+Dynamic Causal Modeling of EEG Data to Assess Fluctuating Connectivity After Theta Burst Stimulation
+<!-- 
+[![Project](https://img.shields.io/badge/Project-Dynamic--Fluctuations--in--DMN--network--after--TBS-6eb3a3?style=for-the-badge&labelColor=grey)](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
+### [Dynamic-Fluctuations-in-DMN-network-after-TBS](https://github.com/ArminTi/Dynamic-Fluctuations-in-DMN-network-after-TBS)
+- A project on dynamic fluctuations in the DMN network after TBS.
+-->
+-----------------------------------------------------------------------------------------------------------------------------
 
 - **Roles:** Neuro Researcher | Physician | Programmer | Artist | Athlete
 - **Philosophy:** Curiosity fuels my journey, creativity is my map, and learning is the path I choose every day. 💡
