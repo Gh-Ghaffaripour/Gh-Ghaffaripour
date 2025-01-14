@@ -16,7 +16,7 @@
 - A project on dynamic fluctuations in the DMN network after TBS.
 -->
 -----------------------------------------------------------------------------------------------------------------------------
-<br>
+
 ### [TraumaticOlfactoryLoss_fMRI_MRI_ML_DL](https://github.com/Gh-Ghaffaripour/TraumaticOlfactoryLoss_fMRI_MRI_ML_DL)
 
 *Machine Learning and Deep Learning for Diagnosing Traumatic Olfactory Loss Using fMRI and MRI Neuroimaging Data (Python)*
@@ -25,8 +25,6 @@
 [![Project](https://img.shields.io/badge/Project-TraumaticOlfactoryLoss__fMRI__MRI__ML__DL-6eb3a3?style=for-the-badge&labelColor=grey)](https://github.com/Gh-Ghaffaripour/TraumaticOlfactoryLoss_fMRI_MRI_ML_DL)
 -->
 
-### [TraumaticOlfactoryLoss_fMRI_MRI_ML_DL](https://github.com/Gh-Ghaffaripour/TraumaticOlfactoryLoss_fMRI_MRI_ML_DL)
-- A research project on diagnosing traumatic olfactory loss using machine learning and deep learning applied to fMRI and MRI data.
 -----------------------------------------------------------------------------------------------------------------------------
 <br>
 - **Roles:** Neuro Researcher 🤓| Physician 🩺| Programmer 💻| Artist 🧑‍🎨| Athlete 🥋
