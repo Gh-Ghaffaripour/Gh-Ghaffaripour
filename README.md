@@ -17,7 +17,18 @@
 -->
 -----------------------------------------------------------------------------------------------------------------------------
 <br>
+### [TraumaticOlfactoryLoss_fMRI_MRI_ML_DL](https://github.com/Gh-Ghaffaripour/TraumaticOlfactoryLoss_fMRI_MRI_ML_DL)
 
+*Machine Learning and Deep Learning for Diagnosing Traumatic Olfactory Loss Using fMRI and MRI Neuroimaging Data (Python)*
+
+<!-- 
+[![Project](https://img.shields.io/badge/Project-TraumaticOlfactoryLoss__fMRI__MRI__ML__DL-6eb3a3?style=for-the-badge&labelColor=grey)](https://github.com/Gh-Ghaffaripour/TraumaticOlfactoryLoss_fMRI_MRI_ML_DL)
+-->
+
+### [TraumaticOlfactoryLoss_fMRI_MRI_ML_DL](https://github.com/Gh-Ghaffaripour/TraumaticOlfactoryLoss_fMRI_MRI_ML_DL)
+- A research project on diagnosing traumatic olfactory loss using machine learning and deep learning applied to fMRI and MRI data.
+-----------------------------------------------------------------------------------------------------------------------------
+<br>
 - **Roles:** Neuro Researcher 🤓| Physician 🩺| Programmer 💻| Artist 🧑‍🎨| Athlete 🥋
 - **Philosophy 💡:** As technology advances, physicians' roles are evolving beyond direct patient care due to automation. We are increasingly focusing on innovating sophisticated treatments as researchers. This vision has driven me to self-learn various topics and skills beyond the traditional scope of medicine.. 
 - **Intrests**: I'm diving deep into the mysteries of the human brain 🧠  <br> -Brain Computer interface | Brain Machine interface <br>  -Sensor-brain interface systems <br> -Closed loop deep brain stimulation
