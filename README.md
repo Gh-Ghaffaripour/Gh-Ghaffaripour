@@ -27,6 +27,8 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <br>
+
+
 - **Roles:** Neuro Researcher 🤓| Physician 🩺| Programmer 💻| Artist 🧑‍🎨| Athlete 🥋
 - **Philosophy 💡:** As technology advances, physicians' roles are evolving beyond direct patient care due to automation. We are increasingly focusing on innovating sophisticated treatments as researchers. This vision has driven me to self-learn various topics and skills beyond the traditional scope of medicine.. 
 - **Intrests**: I'm diving deep into the mysteries of the human brain 🧠  <br> -Brain Computer interface | Brain Machine interface <br>  -Sensor-brain interface systems <br> -Closed loop deep brain stimulation
